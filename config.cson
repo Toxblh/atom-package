@@ -1,0 +1,12 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  "exception-reporting":
+    userId: "49c54006-ee4d-0e57-d832-96f21dc000b9"
+  "tree-view":
+    autoReveal: true
+  welcome:
+    showOnStartup: false
