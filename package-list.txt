@@ -7,7 +7,7 @@ git-blame
 git-time-machine
 highlight-line
 highlight-selected
-jira-timesheet
+language-babel
 linter
 linter-eslint
 linter-stylelint
