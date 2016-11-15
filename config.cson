@@ -1,11 +1,37 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "56d93d4b-b6e4-4180-a681-65166cd9340e"
+    js:
+      eval_code: true
   core:
+    telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
+    useCustomTitleBar: true
+  editor:
+    fontSize: 15
+  "editor-background":
+    other:
+      treeViewOpacity: 10
   "exception-reporting":
     userId: "49c54006-ee4d-0e57-d832-96f21dc000b9"
+  "file-icons": {}
+  "global-background":
+    imageSource:
+      source: "Random Image from Internet"
+  linter:
+    errorPanelHeight: 164
+  "one-dark-ui": {}
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  tabs: {}
   "tree-view":
     autoReveal: true
   welcome:

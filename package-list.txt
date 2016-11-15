@@ -1,4 +1,5 @@
 atom-beautify
+atom-ternjs
 autocomplete-modules
 docblockr
 editorconfig
@@ -14,6 +15,6 @@ linter-stylelint
 merge-conflicts
 multi-cursor
 pigments
-react
 rester
 script
+toggle-quotes
