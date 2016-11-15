@@ -1,7 +1,13 @@
 ### Package List
 
-You use the following:
+# How to install packages and settings atom: 
+* git clone https://github.com/Toxblh/atom-package.git
+* cd atom-package
+* ./restore.sh
 
-```apm list --installed --bare | grep '\(.*\)@' -o | sed -e 's/@//g' > package-list.txt``` to create your package list and then
+# How to backup:
+./backup.sh
 
-```apm install --packages-file package-list.txt``` to install them.
+If you want use manual commands:
+```apm list --installed --bare | grep '\(.*\)@' -o | sed -e 's/@//g' > package-list.txt``` - to create your package list and then
+```apm install --packages-file package-list.txt``` - to install them.
