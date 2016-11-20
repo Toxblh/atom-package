@@ -14,7 +14,7 @@ If you want use manual commands:
 
 # For windows
 For available commands ```apm``` and ```atom``` you need add to PATH ```%LOCALAPPDATA%\atom\bin```
-Next apm install --packages-file package-list.txt
-And copy config.cson to C:/Users/%USER%/.atom
+Next ```apm install --packages-file package-list.txt```
+And copy ```config.cson``` to ```C:/Users/%USER%/.atom```
 
 License MIT
