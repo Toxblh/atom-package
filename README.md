@@ -1,6 +1,6 @@
 ### Package List
 
-# How to install packages and settings atom: 
+# How to install packages and settings atom:
 * git clone https://github.com/Toxblh/atom-package.git
 * cd atom-package
 * ./restore.sh
@@ -13,8 +13,8 @@ If you want use manual commands:
 ```apm install --packages-file package-list.txt``` - to install them.
 
 # For windows
-* For available commands ```apm``` and ```atom``` you need add to PATH ```%LOCALAPPDATA%\atom\bin```
-* Next ```apm install --packages-file package-list.txt```
-* And copy ```config.cson``` to ```C:/Users/%USER%/.atom```
+1. For available commands ```apm``` and ```atom``` you need add to PATH ```%LOCALAPPDATA%\atom\bin```
+2. Next ```apm install --packages-file package-list.txt```
+3.  And copy ```config.cson``` to ```C:/Users/%USER%/.atom```
 
 License MIT
