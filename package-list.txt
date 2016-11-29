@@ -17,4 +17,6 @@ multi-cursor
 pigments
 rester
 script
+svg-preview
+svgo
 toggle-quotes

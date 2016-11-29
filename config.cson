@@ -25,6 +25,7 @@
   linter:
     errorPanelHeight: 164
   "one-dark-ui": {}
+  pigments: {}
   "split-diff":
     diffWords: true
     ignoreWhitespace: true
