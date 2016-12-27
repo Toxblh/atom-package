@@ -12,6 +12,7 @@
     ]
     useCustomTitleBar: true
   editor:
+    fontFamily: "Fira Code"
     fontSize: 15
   "editor-background":
     other:

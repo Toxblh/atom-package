@@ -1,6 +1,7 @@
 ### Package List
 
 # How to install packages and settings atom:
+* Add in you system font https://github.com/tonsky/FiraCode
 * git clone https://github.com/Toxblh/atom-package.git
 * cd atom-package
 * ./restore.sh
