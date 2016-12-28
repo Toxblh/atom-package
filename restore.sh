@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo 'Start restore atom'
 apm install --packages-file package-list.txt
 echo 'Restore settings'
