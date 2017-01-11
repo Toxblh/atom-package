@@ -24,15 +24,16 @@
 atom-text-editor {
   // color: white;
   // background-color: hsl(180, 24%, 12%);
+  //
   text-rendering: optimizeLegibility;
 }
 
 // To style other content in the text editor's shadow DOM, use the ::shadow expression
-atom-text-editor::shadow .cursor {
+atom-text-editor .cursor {
   // border-color: red;
 }
 
-atom-text-editor::shadow .string.quoted,
-atom-text-editor::shadow .string.regexp {
+atom-text-editor.editor .syntax--string.syntax--quoted,
+atom-text-editor.editor .syntax--string.syntax--regexp {
   -webkit-font-feature-settings: "liga" off, "calt" off;
 }
