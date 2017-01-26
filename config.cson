@@ -4,6 +4,9 @@
       _analyticsUserId: "56d93d4b-b6e4-4180-a681-65166cd9340e"
     js:
       eval_code: true
+  "atom-clock":
+    dateFormat: " D.MM.YYYY H:mm "
+    showClockIcon: true
   core:
     telemetryConsent: "limited"
     themes: [

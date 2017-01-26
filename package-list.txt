@@ -1,4 +1,5 @@
 atom-beautify
+atom-clock
 atom-ternjs
 autocomplete-modules
 docblockr
