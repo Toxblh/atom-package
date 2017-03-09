@@ -1,5 +1,7 @@
 ![atom packages](https://cloud.githubusercontent.com/assets/2198153/23770876/f4718ed4-0525-11e7-82df-c3b899c4adcd.png)
 
+![atom packages screen](https://cloud.githubusercontent.com/assets/2198153/23771045/9205992e-0526-11e7-94ef-bda214b852d8.png)
+
 ## How to install packages and settings atom:
 * Add in you system font https://github.com/tonsky/FiraCode
 * git clone https://github.com/Toxblh/atom-package.git
