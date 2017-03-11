@@ -19,6 +19,7 @@ pigments
 rester
 script
 sort-lines
+Stylus
 svg-preview
 svgo
 toggle-quotes
