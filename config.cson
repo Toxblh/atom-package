@@ -7,27 +7,37 @@
   "atom-clock":
     dateFormat: " D.MM.YYYY H:mm "
     showClockIcon: true
+  "atom-package-deps":
+    ignored: []
+  "battery-status":
+    onlyShowWhileInFullscreen: true
   core:
+    closeDeletedFileTabs: true
+    destroyEmptyPanes: false
+    restorePreviousWindowsOnStart: false
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "base16-tomorrow-dark-theme"
     ]
-    useCustomTitleBar: true
+    titleBar: "custom"
   editor:
     fontFamily: "Fira Code"
-    fontSize: 15
   "editor-background":
     other:
       treeViewOpacity: 10
   "exception-reporting":
     userId: "49c54006-ee4d-0e57-d832-96f21dc000b9"
   "file-icons": {}
+  "git-blame":
+    columnWidth: 300
   "global-background":
     imageSource:
       source: "Random Image from Internet"
-  linter:
-    errorPanelHeight: 164
+  "highlight-line": {}
+  "highlight-selected": {}
+  linter: {}
+  "linter-ui-default": {}
   "one-dark-ui": {}
   pigments: {}
   "split-diff":
@@ -35,6 +45,7 @@
     ignoreWhitespace: true
     leftEditorColor: "red"
     rightEditorColor: "green"
+    scrollSyncType: "Vertical + Horizontal"
     syncHorizontalScroll: true
   tabs: {}
   "tree-view":
